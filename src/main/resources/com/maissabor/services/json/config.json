@@ -1,0 +1,11 @@
+{
+    "fontes" : [
+       {
+        "titulo" : "logger",
+        "sgbd" : "mysql",
+        "usuario" : "",
+        "senha" : "",
+        "url" : "jdbc:mysql://127.0.0.1:3306/logger?useTimezone=true&serverTimezone=UTC"
+    }
+   ]
+}
